@@ -3,7 +3,8 @@ using System.Collections;
 
 public class PlayerControllerScript : MonoBehaviour {
 
-	public float maxSpeed = 10f;
+	public float moveSpeed = 10f;
+	public float airSpeed = 12f;
 	bool facingRight = true;
 
 	bool grounded = false;
@@ -11,7 +12,7 @@ public class PlayerControllerScript : MonoBehaviour {
 	float groundRadius = 0.2f;
 	public LayerMask whatIsGround;
 
-	public float jumpForce = 700f;
+	public float jumpForce = 260f;
 
 	// Use this for initialization
 	void Start () {
@@ -26,9 +27,11 @@ public class PlayerControllerScript : MonoBehaviour {
 
 
 		float move = Input.GetAxis ("Horizontal");
-
-		GetComponent<Rigidbody2D>().velocity = new Vector2 (move * maxSpeed, GetComponent<Rigidbody2D>().velocity.y);
-
+		if(grounded)
+			GetComponent<Rigidbody2D>().velocity = new Vector2 (move * moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
+		else if (!grounded)
+			GetComponent<Rigidbody2D>().velocity = new Vector2 (move * airSpeed, GetComponent<Rigidbody2D>().velocity.y);
+		
 		if (move > 0 && !facingRight)
 			Flip ();
 		else if (move < 0 && facingRight)
