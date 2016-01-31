@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 2bc52e2e9d7bc428280c3c0ff5908851
+timeCreated: 1454177662
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Slug_0
+    21300002: Slug_1
+    21300004: Slug_2
+    21300006: Slug_3
+    21300008: Slug_4
+    21300010: Slug_5
+    21300012: Slug_6
+    21300014: Slug_7
+    21300016: Slug_8
+    21300018: Slug_9
+    21300020: Slug_10
+    21300022: Slug_11
+    21300024: Slug_12
+    21300026: Slug_13
+    21300028: Slug_14
+    21300030: Slug_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Slug_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 37}
+        - {x: 121, y: 48}
+        - {x: 53, y: 48}
+        - {x: -124, y: -25}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    - name: Slug_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 48}
+        - {x: -77, y: 48}
+        - {x: -124, y: -30}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    - name: Slug_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 48}
+        - {x: 33, y: 48}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    - name: Slug_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 48}
+        - {x: 33, y: 48}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    - name: Slug_4
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -48}
+        - {x: 123, y: 34}
+        - {x: 118, y: 42}
+        - {x: 105, y: 40}
+        - {x: 103, y: 38}
+        - {x: 94, y: 44}
+        - {x: 72, y: 44}
+        - {x: -54, y: 3}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 120, y: -50}
+    - name: Slug_5
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -48}
+        - {x: 123, y: 34}
+        - {x: 118, y: 42}
+        - {x: 105, y: 40}
+        - {x: 103, y: 38}
+        - {x: 94, y: 44}
+        - {x: 72, y: 44}
+        - {x: -54, y: 3}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 120, y: -50}
+    - name: Slug_6
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 44}
+        - {x: 112, y: 44}
+        - {x: 105, y: 40}
+        - {x: 103, y: 38}
+        - {x: 94, y: 44}
+        - {x: 72, y: 44}
+        - {x: -54, y: 3}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    - name: Slug_7
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 44}
+        - {x: 112, y: 44}
+        - {x: 105, y: 40}
+        - {x: 103, y: 38}
+        - {x: 94, y: 44}
+        - {x: 72, y: 44}
+        - {x: -54, y: 3}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    - name: Slug_8
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 37}
+        - {x: 121, y: 48}
+        - {x: 54, y: 48}
+        - {x: -124, y: -26}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    - name: Slug_9
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 48}
+        - {x: 30, y: 48}
+        - {x: -50, y: 31}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    - name: Slug_10
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 48}
+        - {x: 31, y: 48}
+        - {x: -50, y: 32}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    - name: Slug_11
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 48}
+        - {x: 31, y: 48}
+        - {x: -50, y: 32}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    - name: Slug_12
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -48}
+        - {x: 123, y: 34}
+        - {x: 118, y: 42}
+        - {x: 105, y: 40}
+        - {x: 103, y: 38}
+        - {x: 94, y: 44}
+        - {x: 72, y: 44}
+        - {x: -40, y: 8}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 120, y: -50}
+    - name: Slug_13
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -48}
+        - {x: 123, y: 34}
+        - {x: 118, y: 42}
+        - {x: 105, y: 40}
+        - {x: 103, y: 38}
+        - {x: 94, y: 44}
+        - {x: 72, y: 44}
+        - {x: -40, y: 8}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 120, y: -50}
+    - name: Slug_14
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 44}
+        - {x: 112, y: 44}
+        - {x: 105, y: 40}
+        - {x: 103, y: 38}
+        - {x: 94, y: 44}
+        - {x: 72, y: 44}
+        - {x: -40, y: 8}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    - name: Slug_15
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 0
+        width: 248
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 44}
+        - {x: 112, y: 44}
+        - {x: 105, y: 40}
+        - {x: 103, y: 38}
+        - {x: 94, y: 44}
+        - {x: 72, y: 44}
+        - {x: -40, y: 8}
+        - {x: -124, y: -32}
+        - {x: -124, y: -50}
+        - {x: 123, y: -50}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
