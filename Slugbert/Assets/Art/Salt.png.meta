@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 4b5dad85ce8ba4527b352940e6eb6b1a
+timeCreated: 1454345290
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Salt_0
+    21300002: Salt_1
+    21300004: Salt_2
+    21300006: Salt_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Salt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 50}
+        - {x: -58, y: 37}
+        - {x: -58, y: -53}
+        - {x: -34, y: -64}
+        - {x: 38, y: -64}
+        - {x: 58, y: -31}
+        - {x: 58, y: 32}
+        - {x: 36, y: 50}
+    - name: Salt_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 58}
+        - {x: -40, y: 58}
+        - {x: -57, y: 39}
+        - {x: -58, y: 29}
+        - {x: -58, y: -46}
+        - {x: -27, y: -58}
+        - {x: 39, y: -58}
+        - {x: 58, y: -27}
+        - {x: 58, y: 43}
+        - {x: 47, y: 53}
+    - name: Salt_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 64}
+        - {x: -58, y: 48}
+        - {x: -58, y: -46}
+        - {x: -44, y: -50}
+        - {x: 32, y: -50}
+        - {x: 58, y: -15}
+        - {x: 58, y: 48}
+        - {x: 32, y: 64}
+    - name: Salt_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 58}
+        - {x: -40, y: 58}
+        - {x: -57, y: 39}
+        - {x: -58, y: 29}
+        - {x: -58, y: -46}
+        - {x: -27, y: -58}
+        - {x: 39, y: -58}
+        - {x: 58, y: -27}
+        - {x: 58, y: 43}
+        - {x: 47, y: 53}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
