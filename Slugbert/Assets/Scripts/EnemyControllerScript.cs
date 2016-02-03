@@ -4,7 +4,8 @@ using System.Collections;
 public class EnemyControllerScript : MonoBehaviour {
 
 
-	public Transform Player;
+	//public Transform Player;
+	public string playerName;
 	public float moveSpeed = 2f;
 	public float maxDist = 30f;
 	public float minDist = 2f;
@@ -19,6 +20,7 @@ public class EnemyControllerScript : MonoBehaviour {
 	
 	void FixedUpdate () {
 
+		Transform Player = GameObject.Find (playerName).transform;
 
 		if(Vector2.Distance(transform.position,Player.position) >= minDist){
 
@@ -47,6 +49,7 @@ public class EnemyControllerScript : MonoBehaviour {
 		Vector3 theScale = transform.localScale;
 		theScale.x *= -1;
 		transform.localScale = theScale;
+
 	}
 
 }
